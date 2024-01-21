@@ -25,8 +25,6 @@ int main()
     cout<<ft<<endl;
     cout<<db;
 
-    // cout<<"Addition of a+b = "<<result;
-
 
     return 0;
 }
